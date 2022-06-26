@@ -47,6 +47,11 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
+*.psd.meta
+*.jpg.meta
+*.jpeg.meta
+*.mat.meta
+*mp4.meta
 
 # Unity3D generated file on crash reports
 sysinfo.txt
@@ -57,4 +62,11 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+
+# Dir to ignore
+Assets/Texturen_im_Haus/Photoshop_Dateien/
+
+# Ignore big files
+*.psd
+*.mp4
 
